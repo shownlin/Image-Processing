@@ -1,0 +1,17 @@
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\wei\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\shown\Documents\Visual Studio 2015\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
